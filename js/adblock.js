@@ -1,0 +1,1 @@
+function chkadblock(){document.getElementById("bbbb").style.minHeight='5px';}
